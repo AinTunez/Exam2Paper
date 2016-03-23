@@ -22,6 +22,7 @@ JRE 8. Will run on JRE 7 with formatting issues.
 4. Run the Exam2Paper JAR file.
 5. In the field labeled ".DAT file", enter the full path to the DAT file you just extracted.
 6. Click "Analyze."
+7. Copy/paste the result as desired.
 
 ![Demo](http://i.imgur.com/0S1Je3C.png)
 
