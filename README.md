@@ -14,6 +14,8 @@ It works with the following question types:
 
 JRE 8. Will run on JRE 7 with formatting issues.
 
+Tested on Windows only.
+
 ## Instructions
 
 1. In Blackboard, export your test to a ZIP package.
