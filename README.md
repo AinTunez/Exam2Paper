@@ -12,7 +12,7 @@ It works with the following question types:
 
 ## Requirements
 
-JRE 8. Will run on JRE 7 with formatting issues.
+Java 8. Will run on Java 7 with formatting issues.
 
 Tested on Windows only.
 
