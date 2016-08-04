@@ -10,11 +10,16 @@ It works with the following question types:
 * Essay
 * Fill in the Blank
 
-It does NOT work with, images, links, or complex formatting.
+It does NOT work with, images, links, or complex formatting. Be sure to double-check it looks how you want and make any edits before distributing it to students.
 
 ## Requirements
 
 Java 8. Will run on Java 7 with formatting issues. Tested on Windows only.
+
+## Installation
+
+1. Download *Exam2Paper.zip*.
+2. Extract the *.JAR* file and accompanying *lib* folder to a known location.
 
 ## Instructions
 
