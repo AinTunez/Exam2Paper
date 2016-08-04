@@ -23,8 +23,8 @@ Java 8. Will run on Java 7 with formatting issues. Tested on Windows only.
 
 ## Instructions
 
-1. Export the assessment you want and save it to your computer
-2. Open the ZIP file.
+1. Export the assessment you want and save it to your computer.
+2. Open the ZIP file of the assesesment you just saved.
 3. You should see several files named *res00001.DAT*, *res00002.DAT*, and so on. Take the largest one and copy it to an easy-to-find location.
 4. Run the Exam2Paper JAR file.
 5. Click on *Choose File...* to browse for the *.DAT* file you found earlier.
